@@ -1,0 +1,8 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Route 1 (5) - Home Town (2)
+5,South,0,2,North,0
+# 1st town (7) - Home Town (2)
+7,West,30,2,East,0
+# 1st town (7) - Route 1 (5)
+7,West,0,5,East,0
